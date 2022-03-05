@@ -64,5 +64,10 @@ alias mkf="touch"
 alias mkd="mkdir"
 alias ..="cd ../"
 
-# run server
-alias t="bash run.sh"
+# gcc and g++ homebrew installs
+alias gcc='/usr/local/Cellar/gcc/11.2.0_3/bin/gcc-11'
+alias g++='/usr/local/Cellar/gcc/11.2.0_3/bin/g++-11'
+
+# gcc and g++ tests
+alias tcc='bash testing/tcc.sh'
+alias t++='bash testing/tpp.sh'

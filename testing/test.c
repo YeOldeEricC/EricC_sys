@@ -32,3 +32,8 @@ void fn() {...}
 #include <math.h>
 #include <string.h>
 #include <complex.h>
+
+int main() {
+	printf("Hello World\n");
+	return 0;
+}

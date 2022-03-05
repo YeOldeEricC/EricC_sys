@@ -1,0 +1,20 @@
+### TODO FOR LIB SETUP
+
+## KEY ##
+#DONE - done
+#IFND - if needed
+#INPR - in progress
+#TODO - to be done
+#UGNT - urgent
+#WNND - when needed
+#KUTD - keeping up to date
+#IGNR - ignore for now
+#FUTR - for future / needed in future
+
+## MAJOR COMPONENTS
+= window handler
+= kernal of 'game engine'
+= graphics engine (rendering ect)
+= assets (sound/textures)
+= 
+=
