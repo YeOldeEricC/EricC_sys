@@ -1,12 +1,10 @@
 // std includes
 #include <iostream>
-#include <stdio.h>
-#include <stdlib.h>
 #include <string>
 #include <filesystem>
 #include <unistd.h>
 // includes from lib folder
-#include "../lib/ext/SDL2/SDL.h"
+#include "../lib/ext/maybe_sdl/include/SDL.h"
 
 
 
