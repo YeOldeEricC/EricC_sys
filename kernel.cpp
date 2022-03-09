@@ -1,3 +1,5 @@
+// THIS FILE IS FOR THE MAIN KERNEL OF THE SYSTEM
+
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
