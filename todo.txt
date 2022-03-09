@@ -13,8 +13,13 @@
 
 ## MAJOR COMPONENTS
 = window handler
-= kernal of 'game engine'
+= kernel of 'game engine'
 = graphics engine (rendering ect)
 = assets (sound/textures)
-= 
 =
+=
+
+
+## KERNEL
+The kernel should have all the functionalities and all that to be used else where and be the 'overarching' program and handler for everything else.
+
