@@ -11,15 +11,18 @@
 #IGNR - ignore for now
 #FUTR - for future / needed in future
 
-## MAJOR COMPONENTS
-= window handler
-= kernel of 'game engine'
-= graphics engine (rendering ect)
-= assets (sound/textures)
-=
-=
+##
+	likely will try to put all the functions in library files
+##
 
+## MAJOR KERNEL COMPONENTS
+= window handler
+= graphics engine (rendering etc)
+= asset handling (sound/textures)
+= physics engine
+= file handling
+= code execution and/or compiling
+= 
 
 ## KERNEL
-The kernel should have all the functionalities and all that to be used else where and be the 'overarching' program and handler for everything else.
-
+- File creation and deletion
