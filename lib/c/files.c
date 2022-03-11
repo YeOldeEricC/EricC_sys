@@ -1,8 +1,6 @@
 #include "../h/files.h"
 #include <stdio.h>
-#include <wchar.h>
 #include <stdlib.h>
-#include <locale.h>
 
 // debugging fns
 
@@ -38,7 +36,7 @@ int num_chars(FILE *f_in) {
 	return char_count;
 }
 
-// read file
+// read file and print contents
 void rdf(char fp[]) {
 	FILE *f;
 	int character;
