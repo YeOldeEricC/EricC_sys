@@ -1,0 +1,18 @@
+-- LIST OF CONFIG VARIABLE --
+#SHELL - activation/use of internal shell
+#PMODE - program mode (core or otherwise)
+
+-- NOTES --
+- all the variables should ONLY take integer values
+- any value donoted by 'N' is only a note pertaining
+- to the above variable
+
+-- VALUES OF THE VARIABLES --
+#SHELL:
+	0 - don't use the internal shell
+	1 - use the internal shell
+
+#PMODE:
+	N - all modes must build upon the core function
+	0 - core
+	1 - game
