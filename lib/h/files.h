@@ -7,8 +7,7 @@
 
 
 // fns
-int utf8_byte_count(unsigned char c);
-int num_chars(FILE *f_in);
-void rdf(char fp[]);
+
+
 
 #endif // FILES_H_

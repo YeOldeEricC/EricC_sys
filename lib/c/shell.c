@@ -11,14 +11,3 @@
 
 
 // fns
-void sh_loop(void)
-{
-	char *line;
-	char **args;
-	int status;
-}
-
-char *sh_rdln(void)
-{
-	return "\n";
-}

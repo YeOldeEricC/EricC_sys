@@ -6,8 +6,17 @@
 #include "../h/files.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 // debugging fns
 
 
 // fns
+
+/* loading the config
+	SF = Shell Flag
+	MF = Mode Flag
+*/
+void ld_cfg() {
+
+}

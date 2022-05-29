@@ -7,8 +7,6 @@
 
 
 // fns
-void sh_loop(void);
-char *sh_rdln(void);
 
 
 #endif // SHELL_H_

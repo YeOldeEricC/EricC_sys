@@ -34,6 +34,11 @@ void fn() {...}
 #include <complex.h>
 #include <time.h>
 
+// import of custom libs
+#include "../lib/h/shell.h"
+#include "../lib/h/config.h"
+#include "../lib/h/files.h"
+
 int main() {
 	return 0;
 }

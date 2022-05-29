@@ -8,16 +8,11 @@
 // imports from internal libs
 #include "./lib/h/files.h"
 #include "./lib/h/config.h"
-#include "./lib/shell.h"
+#include "./lib/h/shell.h"
 
 bool STOP = false;
 
-int main(int argc, char **argv)
-{
-	// should load config before the main loop, then inside the loop
-	// it can keep config vars in memory and upon quit, edit the configs
-
-	ld_cfg("./")
+int main() {
 
 
 
