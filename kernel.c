@@ -10,7 +10,7 @@
 #include "./lib/h/config.h"
 #include "./lib/h/shell.h"
 
-bool STOP = false;
+int STOP = 0;
 
 int main() {
 
